@@ -1,0 +1,2 @@
+# browserMemo
+ブラウザで動くシンプルなミニメモ帳をJavaScriptで
